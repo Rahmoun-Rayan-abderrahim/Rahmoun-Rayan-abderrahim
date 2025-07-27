@@ -67,16 +67,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmounrayan&show_icons=true&theme=gruvbox&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=rahmounrayan&theme=gruvbox&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmounrayan&theme=gruvbox&radius=16" height="300" />
-</div>
-
----
-
 ### 🌐 Let's Connect
 
 <div align="center">
@@ -95,5 +85,9 @@
 </div>
 
 ---
+
+<div class="github-snake-container">
+  <img src="https://github.com/Cipher-Shadow1/Cipher-Shadow1/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</div>
 
 <div alig
