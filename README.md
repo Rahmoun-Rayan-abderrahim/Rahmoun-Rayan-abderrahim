@@ -22,16 +22,16 @@
 
 ---
 
+<div align="center">
 ## 🛠️ Tools & Technologies
 
 ### 💻 Web Development
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@2025-06/laravel/laravel-plain-wordmark.svg " height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" />
@@ -39,9 +39,10 @@
 
 <br/>
 
+<div align="center">
+
 ### 🧠 Data Science & Backend
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" />
@@ -51,9 +52,10 @@
 
 <br/>
 
+<div align="center">
+
 ### 🧰 Tools & Platforms
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" />
@@ -63,9 +65,10 @@
 
 <br/>
 
+<div align="center">
+
 ### 🎨 Design Tools
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" />
@@ -74,9 +77,10 @@
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect with Me
 
-<div align="center">
   <a href="https://your-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=E6517D&logoColor=white&style=for-the-badge" height="35"/>
   </a>
@@ -90,8 +94,9 @@
 
 ---
 
+<div align="center">
+
 ## 🐍 GitHub Activity Snake
 
-<div align="center">
   <img src="https://github.com/Cipher-Shadow1/Cipher-Shadow1/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
