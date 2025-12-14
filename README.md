@@ -42,9 +42,9 @@
 ---
 
 ## 🧠 Data Science, Machine Learning & AI (Main Focus)
-<div align="center">
+<h2 align="center">
 ### 🐍 Python Ecosystem
-</div>
+</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" />
@@ -53,9 +53,9 @@
 </div>
 
 <br/>
-<div align="center">
+<h2 align="center">
 ### 📊 Data & ML Libraries
-</div>
+</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="44" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="44" />
@@ -65,9 +65,9 @@
 </div>
 
 <br/>
-<div align="center">
+<h2 align="center">
 ### 🤖 Domains of Interest
-</div>
+</h2>
 <div align="center">
   🧠 Machine Learning &nbsp;•&nbsp;
   🤖 Artificial Intelligence &nbsp;•&nbsp;
@@ -78,9 +78,9 @@
 </p>
 
 ---
-<div align="center">
+<h2 align="center">
 ## ⚙️ Backend & Systems
-</div>
+</h2>
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" />
@@ -90,9 +90,9 @@
 </div>
 
 ---
-<div align="center">
+<h2 align="center">
 ## 🧰 Tools & Platforms
-</div>
+</h2>
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
@@ -103,9 +103,9 @@
 </div>
 
 ---
-<div align="center">
+<h2 align="center">
 ## 🌐 Connect with Me
-</div>
+</h2>
 <div align="center">
 
   <a href="https://your-portfolio.vercel.app" target="_blank">
@@ -120,9 +120,9 @@
 </div>
 
 ---
-
+<h2 align="center">
 ## 🐍 GitHub Activity Snake
-
+</h2>
 <div align="center">
   <img src="https://github.com/Cipher-Shadow1/Cipher-Shadow1/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
