@@ -29,14 +29,34 @@
 
 <br/><br/>
 
-<h2 align="center">💻 Core Web Technologies (Minimal & Clean)</h2>
+<h2 align="center">⚛️ Frontend Frameworks</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="52" alt="Next.js" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">🛠️ Backend, APIs & Server</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">☁️ Cloud, CMS & Backend Services</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sanity.svg" height="50" alt="Sanity CMS" />
 </div>
 
 <br/><br/>
@@ -79,13 +99,11 @@
 
 <br/><br/>
 
-<h2 align="center">⚙️ Backend & Systems</h2>
+<h2 align="center">⚙️ Systems & Databases</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="46" />
 </div>
 
 <br/><br/>
@@ -118,7 +136,7 @@
 
 <br/><br/>
 
-<h2 align="center">🐍 GitHub Activity </h2>
+<h2 align="center">🐍 GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github.com/Cipher-Shadow1/Cipher-Shadow1/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
