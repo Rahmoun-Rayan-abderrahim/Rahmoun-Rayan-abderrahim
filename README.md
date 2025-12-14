@@ -42,10 +42,9 @@
 ---
 
 ## 🧠 Data Science, Machine Learning & AI (Main Focus)
-
+<div align="center">
 ### 🐍 Python Ecosystem
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" />
@@ -53,10 +52,9 @@
 </div>
 
 <br/>
-
+<div align="center">
 ### 📊 Data & ML Libraries
 
-<div align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="44" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="44" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="44" />
@@ -65,10 +63,9 @@
 </div>
 
 <br/>
-
+<div align="center">
 ### 🤖 Domains of Interest
 
-<p align="center">
   🧠 Machine Learning &nbsp;•&nbsp;
   🤖 Artificial Intelligence &nbsp;•&nbsp;
   📈 Data Analysis <br/>
@@ -78,10 +75,10 @@
 </p>
 
 ---
-
+<div align="center">
 ## ⚙️ Backend & Systems
 
-<div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="46" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" />
@@ -89,10 +86,10 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🧰 Tools & Platforms
 
-<div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" />
@@ -101,10 +98,10 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🌐 Connect with Me
 
-<div align="center">
+
   <a href="https://your-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=E6517D&logoColor=white&style=for-the-badge" height="35"/>
   </a>
