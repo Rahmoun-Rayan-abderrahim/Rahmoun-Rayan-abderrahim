@@ -117,8 +117,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" />
-  <img src="https://avatars.githubusercontent.com/u/120322700?s=200&v=4" height="48" alt="Cursor AI Editor" />
-  <img src="https://img.shields.io/badge/Antigravity%20IDE-AI%20Editor-7B61FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" height="32" alt="Antigravity IDE" />
+  
 
 
 </div>
