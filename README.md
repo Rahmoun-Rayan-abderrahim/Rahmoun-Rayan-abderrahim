@@ -56,7 +56,7 @@
 <h2 align="center">☁️ Cloud, CMS & Backend Services</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"  height="50" alt="Firebase" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sanity.svg" height="50" alt="Sanity CMS" />
 </div>
