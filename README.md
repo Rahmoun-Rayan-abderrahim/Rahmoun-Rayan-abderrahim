@@ -7,45 +7,92 @@
 
 <!-- 🌐 Visitor Badge -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahmounrayan.rahmounrayan" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahmoun-Rayan-abderrahim.Rahmoun-Rayan-abderrahim" />
 </div>
 
+<br/>
+
 <!-- 👋 Intro -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#e6517d">Rahmoun Rayan Abderrahime</span></h1>
-<h3 align="center">🚀 Passionate Computer Science student from Boumerdes, Algeria</h3>
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#e6517d">Rahmoun Rayan Abderrahime</span>
+</h1>
+
+<h3 align="center">
+  🚀 Computer Science Student from Boumerdes, Algeria
+</h3>
 
 <p align="center">
-🎓 Computer Science undergraduate &nbsp;|&nbsp; 💻 Future Fullstack Hero <br>
-🔥 Curious about AI, backend architecture, and frontend magic <br>
-📬 Open to collaboration, internships, and exciting side projects
+  🎓 Computer Science Undergraduate &nbsp;|&nbsp; 🧠 Data & AI Oriented <br/>
+  🔥 Interested in Machine Learning, Backend Systems & Clean Architectures <br/>
+  📬 Open to collaboration, internships, and serious side projects
 </p>
 
 ---
+
+## 💻 Core Web Technologies (Minimal & Clean)
+
 <div align="center">
-💻 Core Web Technologies (Minimal & Clean)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" /> </div> <br/> <div align="center">
-🧠 Data Science, Machine Learning & AI (Main Focus)
-🐍 Python Ecosystem
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipython/ipython-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
+</div>
 
-<br/><br/>
+---
 
-📊 Data & ML Libraries
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="44" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="44" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="44" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" height="44" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" height="44" />
+## 🧠 Data Science, Machine Learning & AI (Main Focus)
 
-<br/><br/>
+### 🐍 Python Ecosystem
 
-🤖 Domains of Interest
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ipython/ipython-original.svg" height="48" />
+</div>
 
-🧠 Machine Learning  •  🤖 Artificial Intelligence  •  📈 Data Analysis
-🔍 Feature Engineering  •  📊 Model Evaluation  •  🧪 Experimentation
+<br/>
 
-</div> <br/> <div align="center">
-⚙️ Backend & Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="46" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="46" /> </div>
+### 📊 Data & ML Libraries
 
-### 🧰 Tools & Platforms
+<div align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="44" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="44" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="44" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" height="44" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" height="44" />
+</div>
 
+<br/>
+
+### 🤖 Domains of Interest
+
+<p align="center">
+  🧠 Machine Learning &nbsp;•&nbsp;
+  🤖 Artificial Intelligence &nbsp;•&nbsp;
+  📈 Data Analysis <br/>
+  🔍 Feature Engineering &nbsp;•&nbsp;
+  📊 Model Evaluation &nbsp;•&nbsp;
+  🧪 Experimentation
+</p>
+
+---
+
+## ⚙️ Backend & Systems
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="46" />
+</div>
+
+---
+
+## 🧰 Tools & Platforms
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" />
@@ -53,17 +100,11 @@
   <img src="https://avatars.githubusercontent.com/u/120322700?s=200&v=4" height="48" alt="Cursor Logo" />
 </div>
 
-<br/>
-
-
-
-
 ---
-
-<div align="center">
 
 ## 🌐 Connect with Me
 
+<div align="center">
   <a href="https://your-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=E6517D&logoColor=white&style=for-the-badge" height="35"/>
   </a>
@@ -77,9 +118,8 @@
 
 ---
 
-<div align="center">
-
 ## 🐍 GitHub Activity Snake
 
+<div align="center">
   <img src="https://github.com/Cipher-Shadow1/Cipher-Shadow1/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
