@@ -118,7 +118,7 @@
 
 <br/><br/>
 
-<h2 align="center">🐍 GitHub Activity Snake</h2>
+<h2 align="center">🐍 GitHub Activity </h2>
 
 <div align="center">
   <img src="https://github.com/Cipher-Shadow1/Cipher-Shadow1/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
